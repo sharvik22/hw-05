@@ -17,7 +17,8 @@
 - [ ] Прикрепите скриншот Alerts из Prometheus, где правило оповещения будет в статусе Fireing, и скриншот из Alertmanager, где будет видно действующее правило оповещения
 
 ### Решение 2*
-
+![alt text](https://github.com/sharvik22/hw-05/blob/main/images/2-1.jpg)
+![alt text](https://github.com/sharvik22/hw-05/blob/main/images/2-2.jpg)
 ---
 ### Задание 3*
 
@@ -27,6 +28,8 @@
 - [ ] приложите скриншот браузера с открытым эндпоинтом, а также скриншот списка таргетов из интерфейса Prometheus.*
 
 ### Решение 3*
+![alt text](https://github.com/sharvik22/hw-05/blob/main/images/3-1.jpg)
+![alt text](https://github.com/sharvik22/hw-05/blob/main/images/3-2.jpg)
 
 ---
 ### Задание 4* со звездочкой 
@@ -37,5 +40,6 @@
 - [ ] Приложите скриншот, на котором будет дашборд Grafana с действующей метрикой
 
 ### Решение 4*
+![alt text](https://github.com/sharvik22/hw-05/blob/main/images/4.jpg)
 
 ---
