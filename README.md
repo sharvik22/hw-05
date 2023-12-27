@@ -7,7 +7,7 @@
 - [ ] Погасите node exporter, стоящий на мониторинге, и прикрепите скриншот раздела оповещений Prometheus, где оповещение будет в статусе Pending
 
 ### Решение 1*
-
+![alt text](https://github.com/sharvik22/hw-05/blob/main/images/1.jpg)
 
 ---
 ### Задание 2*
